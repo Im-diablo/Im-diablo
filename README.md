@@ -18,7 +18,7 @@
 📈 Top Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-diablo&layout=compact&theme=tokyonight&hide_border=false" /> </p>
 
-🏆 Trophies
+ ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Im-diablo&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 💬 Quote of the Day
@@ -29,4 +29,18 @@
 
 🧠 Random Dev Joke
 <p align="center"> <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" /> </p>
+
+🧠 Random Cybersecurity Fact
+<p align="center">
+  <img src="https://cyber-facts.vercel.app/api/fact" />
+</p>
+
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="400">
+
+<p align=\"center\">
+  <img src=\"https://img.shields.io/badge/Arch%20Linux-blue?style=flat&logo=arch-linux\">
+  <img src=\"https://img.shields.io/badge/Hyprland-100000?style=flat&logo=wayland&logoColor=white\">
+  <img src=\"https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white\">
+</p>
 
