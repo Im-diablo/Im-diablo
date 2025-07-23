@@ -18,8 +18,8 @@
 📈 Top Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-diablo&layout=compact&theme=tokyonight&hide_border=false" /> </p>
 
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Im-diablo&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=im-diablo&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" />
 
 💬 Quote of the Day
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
@@ -33,10 +33,5 @@
 🧠 Random Cybersecurity Fact
 <p align="center">
   <img src="https://cyber-facts.vercel.app/api/fact" />
-</p>
-<p align=\"center\">
-  <img src=\"https://img.shields.io/badge/Arch%20Linux-blue?style=flat&logo=arch-linux\">
-  <img src=\"https://img.shields.io/badge/Hyprland-100000?style=flat&logo=wayland&logoColor=white\">
-  <img src=\"https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white\">
 </p>
 
