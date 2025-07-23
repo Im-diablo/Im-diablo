@@ -34,10 +34,6 @@
 <p align="center">
   <img src="https://cyber-facts.vercel.app/api/fact" />
 </p>
-
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400">
-<img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="400">
-
 <p align=\"center\">
   <img src=\"https://img.shields.io/badge/Arch%20Linux-blue?style=flat&logo=arch-linux\">
   <img src=\"https://img.shields.io/badge/Hyprland-100000?style=flat&logo=wayland&logoColor=white\">
