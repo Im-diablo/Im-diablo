@@ -19,7 +19,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-diablo&layout=compact&theme=tokyonight&hide_border=false" /> </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?Im-diablo=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Im-diablo=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 💬 Quote of the Day
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
