@@ -31,10 +31,10 @@ neofetch
   🎨 Ricing Linux desktops (WM: Hyprland, Sway)
 
 > 🔧 My Linux Setup
-<p align="center"> <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="45%" /> <img src="https://media.giphy.com/media/Y1cexf5xvL8ic/giphy.gif" width="45%" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="45%" /> </p>
 
 🧰 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,flask,nodejs,docker,git,github,vscode,java,mysql,mongodb,postman,react,neovim" /> </p>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,flask,nodejs,docker,git,github,vscode,java,mysql,mongodb,postman,react,neovim" />
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Im-diablo&show_icons=true&theme=tokyonight&hide_border=false" width="48%" /> <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=tokyonight&hide_border=false" width="48%" /> </p>
@@ -59,5 +59,3 @@ alias startx='startx ~/.xinitrc'
 🧠 Random Dev Joke
 <p align="center"> <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" /> </p>
 
-🌍 Visitors
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Im-diablo&icon=5&color=6" /> </p>
