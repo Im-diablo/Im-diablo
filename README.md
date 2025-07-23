@@ -8,31 +8,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-bash
-whoami
-> Aditya - a backend developer with a passion for Linux & cybersecurity
-
-cat /etc/os-release
-> Arch Linux btw 🐧
-
-neofetch
-> Terminal: Alacritty | WM: Hyprland | Shell: Zsh + Starship
->
-> 🚀 Interests
-
-  ⚙️ Automation with Bash & Python
-
-  🧠 CTFs & Ethical Hacking (Learning)
-
-  🎨 Ricing Linux desktops (WM: Hyprland, Sway)
-
-> 🔧 My Linux Setup
-<p align="center"> <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="45%" /> </p>
-
 🧰 Tech Stack
 <img src="https://skillicons.dev/icons?i=linux,bash,python,flask,nodejs,docker,git,github,vscode,java,mysql,mongodb,postman,react,neovim" />
 
