@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Aditya+%F0%9F%91%8B;Developer+%7C+Linux+Ricer+%7C+Cyber+Learner;Ricing+my+life+with+Bash+and+Neovim+!" alt="Typing SVG" />
 </p>
-<div algin=center>
+
   ![](https://komarev.com/ghpvc/?username=Im-diablo&abbreviated=true)
-</div>
+
 <!-- BANNER GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
