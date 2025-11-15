@@ -1,203 +1,263 @@
-<!-- TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Aditya+%F0%9F%91%8B;Developer+%7C+Linux+Ricer+%7C+Cyber+Learner;Ricing+my+life+with+Bash+and+Neovim+!;Building+Cool+Stuff+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Im-diablo&color=red&abbreviated=false&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Im-diablo?style=for-the-badge&color=red&labelColor=1a1b27" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Im-diablo?style=for-the-badge&color=red&labelColor=1a1b27" alt="Stars" />
-</p>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ADITYA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20|%20Linux%20Ricer%20|%20Cyber%20Enthusiast&descAlignY=55&descSize=20"/>
 
-<!-- BANNER GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
+</div>
 
----
+<div align="center">
+  
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+Digital+Realm+%F0%9F%94%A5;Crafting+Code+%26+Breaking+Systems;Ricing+Linux+Like+It's+an+Art+%F0%9F%8E%A8;Neovim+%3E+Everything+Else+%F0%9F%92%BB;Let's+Build+Something+Epic!+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 
-### 👨‍💻 About Me
+<!-- PROFILE VIEWS & BADGES -->
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=Im-diablo&color=red&style=for-the-badge&abbreviated=false)](https://github.com/Im-diablo)
+[![Followers](https://img.shields.io/github/followers/Im-diablo?style=for-the-badge&color=red&labelColor=000000&logo=github)](https://github.com/Im-diablo)
+[![Stars](https://img.shields.io/github/stars/Im-diablo?style=for-the-badge&color=red&labelColor=000000&logo=github)](https://github.com/Im-diablo)
+[![Years Badge](https://badges.pufler.dev/years/Im-diablo?style=for-the-badge&color=red&logo=github&logoColor=white)](https://github.com/Im-diablo)
 
-```bash
-#!/bin/bash
+</div>
 
-echo "Who am I?"
-cat << EOF
-  ╔═══════════════════════════════════════╗
-  ║  Name:       Aditya                   ║
-  ║  Role:       Full Stack Developer     ║
-  ║  Passion:    Linux Ricing & Cyber     ║
-  ║  Editor:     Neovim (btw)             ║
-  ║  Shell:      Bash/Zsh                 ║
-  ║  Status:     Learning & Building      ║
-  ║  Motto:      Code. Rice. Repeat.      ║
-  ╚═══════════════════════════════════════╝
-EOF
+<!-- GLITCH BANNER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZjYjVhMzk4ZWVhYjZlNGE4ZWQ4ZGE2ZGEwYzE3ZjU2ZGU0YjY0ZiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## 🔥 WHO AM I?
+
+```rust
+struct Developer {
+    name: &'static str,
+    role: Vec<&'static str>,
+    location: &'static str,
+    os: &'static str,
+    editor: &'static str,
+    languages: Vec<&'static str>,
+}
+
+impl Developer {
+    fn new() -> Self {
+        Self {
+            name: "Aditya",
+            role: vec!["Full Stack Dev", "Linux Ricer", "Cyber Learner"],
+            location: "India 🇮🇳",
+            os: "Arch Linux (btw)",
+            editor: "Neovim with 10000 plugins",
+            languages: vec!["Bash", "Python", "C++", "JavaScript", "Rust"],
+        }
+    }
+    
+    fn current_vibe(&self) -> &'static str {
+        "Coding at 3 AM with coffee ☕ and synthwave 🎵"
+    }
+}
 ```
 
-- 🔭 Currently working on **Cybersecurity Projects**
-- 🌱 Learning **Advanced Linux & DevOps**
-- 💬 Ask me about **Ricing, Neovim, Web Dev**
-- ⚡ Fun fact: **I use Arch BTW** 😎
-- 🎯 Goal: **Master the terminal life**
+<br>
+
+### 💭 Current Status
+
+```diff
++ Learning: Advanced Cybersecurity & DevOps
++ Building: Custom Linux Rice & Neovim Config
++ Exploring: Rust, Go, and Cloud Native Tech
+! Bug Status: 99 bugs in the code 🎵
+! Take one down, patch it around 🎵
+! 127 bugs in the code 🎵
+```
 
 <br clear="right"/>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 🔥 Streak Stats
+## 🛠️ TECH ARSENAL
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+### ⚡ Core Languages
 
-### 🧰 Tech Stack & Tools
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,rust,go,bash,powershell&theme=dark&perline=10" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coder GIF">
-</p>
+### 🎨 Frontend Magic
 
-#### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,bash,powershell&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,bootstrap,vite,flutter,qt&theme=dark&perline=10" />
 
-#### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,vite,flutter,figma,tailwind&theme=dark" />
-</p>
+### ⚙️ Backend Power
 
-#### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,firebase,postgres,redis,kafka&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,nginx,apache,graphql,prisma&theme=dark&perline=8" />
 
-#### 🛠️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vim,vscode,vercel,netlify,heroku&theme=dark" />
-</p>
+### 🗄️ Databases & Cloud
 
-#### 🎮 Other Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,unreal,cmake,gradle,qt&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase,kafka,docker&theme=dark&perline=8" />
 
----
+### 🔧 DevOps & Tools
 
-### 📊 GitHub Analytics
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,terraform,ansible&theme=dark&perline=8" />
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Im-diablo&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_radius=10" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-diablo&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=ff0000&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages" />
-</p>
+### 🎮 Design & More
 
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Im-diablo&theme=tokyo-night&hide_border=false&bg_color=1a1b27&color=ff0000&line=ff0000&point=ffffff&area=true&custom_title=Contribution%20Graph&radius=10" alt="Contribution Graph" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,ai,ps,pr,ae&theme=dark&perline=8" />
 
----
+### 🐧 Systems & IDEs
 
-### 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,vim,neovim,vscode,idea&theme=dark&perline=8" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Im-diablo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage,Experience" alt="Trophies" />
-</p>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 🎧 Spotify Playing
+## 📊 GITHUB WARFARE
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26cwhbydwzzfeafnrgnv2x2fy&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false&bar_color=ff0000&bar_color_cover=true" alt="Spotify Now Playing" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Im-diablo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F70000&icon_color=F70000&text_color=FFFFFF&ring_color=F70000&fire_color=F70000&border_radius=15" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Im-diablo&theme=radical&hide_border=true&background=0D1117&ring=F70000&fire=F70000&currStreakLabel=F70000&sideLabels=F70000&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=15" />
 
-### 💬 Random Dev Quote
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-diablo&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F70000&text_color=FFFFFF&border_radius=15&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-diablo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F70000&text_color=FFFFFF&border_radius=15&langs_count=10" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote" />
-</p>
+</div>
 
----
+### 📈 Contribution Graph
 
-### 😂 Random Dev Meme
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-diablo&custom_title=Aditya's%20Contribution%20Graph&bg_color=0D1117&color=F70000&line=F70000&point=FFFFFF&area=true&hide_border=true&radius=15" width="98%"/>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false" alt="Jokes Card" />
-</p>
+</div>
 
----
+### 🏆 Trophy Cabinet
 
-### 🐍 Contribution Snake
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Im-diablo&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers,Issues" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Im-diablo/Im-diablo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 📈 Productivity Stats
+## 🎧 VIBING TO
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Im-diablo&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=ff0000&text_color=ffffff&border_radius=10&layout=compact" alt="WakaTime Stats" />
-</p>
+<div align="center">
 
----
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31l26cwhbydwzzfeafnrgnv2x2fy)
 
-### 🎯 Current Focus
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Hacking GIF">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-```javascript
-const currentFocus = {
-    learning: ['Cybersecurity', 'Advanced Linux', 'DevOps'],
-    building: ['Custom Neovim Config', 'Rice Setups', 'Web Apps'],
-    exploring: ['System Design', 'Cloud Architecture', 'Automation'],
-    goal: 'Master the art of efficient development',
-    funFact: 'My config files have more commits than my projects 😅'
-};
-```
+## 🐍 CONTRIBUTION SNAKE
 
----
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Im-diablo/Im-diablo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Im-diablo/Im-diablo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Im-diablo/Im-diablo/output/github-contribution-grid-snake.svg">
+</picture>
 
-### 🌐 Connect With Me
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://discord.gg/your-discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+## 💬 WISDOM OF THE DAY
 
-### 💖 Support My Work
+<div align="center">
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourname"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-  <a href="https://ko-fi.com/yourname"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it" />
 
----
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Thank You GIF">
-</p>
+## 😂 RANDOM DEV JOKE
 
----
+<div align="center">
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/Im-diablo">Im-diablo</a> - Show some ❤️ by starring some repositories!</i>
-</p>
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=false&qColor=%23F70000&aColor=%23FFFFFF&bgColor=%230D1117&borderColor=%23F70000" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://discord.gg/yourserver">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://instagram.com/yourhandle">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 💰 SUPPORT MY WORK
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/yourname">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://ko-fi.com/yourname">
+  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+<a href="https://patreon.com/yourname">
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="10%"/>
+
+### ⭐ Show some love by starring my repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
