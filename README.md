@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20%F0%9F%91%8B&fontSize=42&fontAlignY=30&desc=Developer%20%7C%20Linux%20Ricer%20%7C%20Cyber%20Learner&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Yadav%20%F0%9F%91%8B&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast%20%7C%20Blockchain%20Explorer&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <!-- TYPING ANIMATION -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Ricing+my+life+with+Bash+and+Neovim+%F0%9F%92%BB;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80;Coffee+%2B+Code+%3D+Magic+%E2%98%95%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+web+%26+blockchain+applications+%F0%9F%9A%80;Smart+India+Hackathon+Finalist+%F0%9F%8F%86;Passionate+about+Web3+%26+Cybersecurity+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
@@ -26,12 +26,18 @@
 
 ```typescript
 const aditya = {
-    location: "Delhi, India 🇮🇳",
-    role: "Full Stack Developer & Cybersecurity Enthusiast",
-    currentFocus: ["System Administration", "Web3", "DevOps"],
-    learning: ["Kubernetes", "Rust", "Penetration Testing"],
-    hobbies: ["Linux Ricing", "Open Source", "CTF Challenges"],
-    motto: "Code. Rice. Repeat. 🔄"
+    location: "Ghaziabad, India 🇮🇳",
+    education: "B.Tech CSE @ ABES Institute of Technology",
+    role: "Full Stack Developer & Blockchain Enthusiast",
+    currentFocus: ["Web3 Development", "React Native", "Cloud Architecture"],
+    achievements: [
+        "Smart India Hackathon 2024 & 2025 Finalist",
+        "AWS Solutions Architect Virtual Simulation",
+        "Deloitte Cyber Analyst Simulation"
+    ],
+    learning: ["Solidity", "AWS", "Machine Learning", "Cybersecurity"],
+    contact: "adit200515@gmail.com",
+    motto: "Building the future, one commit at a time 🔥"
 };
 ```
 
@@ -43,23 +49,23 @@ const aditya = {
 <tr>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50"/>
-<br><strong>Full Stack Dev</strong>
-<br><sub>Building scalable apps</sub>
+<br><strong>Full Stack Developer</strong>
+<br><sub>MERN + React Native</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="50"/>
+<br><strong>Blockchain Dev</strong>
+<br><sub>Solidity & Ethers.js</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="50"/>
-<br><strong>Security Focused</strong>
-<br><sub>Ethical hacking & CTFs</sub>
+<br><strong>Cyber Analyst</strong>
+<br><sub>OSINT & Security</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50"/>
-<br><strong>Linux Ricer</strong>
-<br><sub>Customizing everything</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50"/>
-<br><strong>Always Learning</strong>
-<br><sub>Growing every day</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50"/>
+<br><strong>SIH Finalist</strong>
+<br><sub>2024 & 2025</sub>
 </td>
 </tr>
 </table>
@@ -68,7 +74,21 @@ const aditya = {
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Skills
+
+<details open>
+<summary><b>👨‍💻 Programming Languages</b></summary>
+<br>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+</details>
 
 <details open>
 <summary><b>🎨 Frontend Development</b></summary>
@@ -76,71 +96,82 @@ const aditya = {
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_13-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>⚙️ Backend & Database</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🔧 DevOps & Tools</b></summary>
+<summary><b>⛓️ Blockchain & Web3</b></summary>
 <br>
 
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & Deployment</b></summary>
+<summary><b>🛠️ Tools & IDEs</b></summary>
 <br>
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>📊 Big Data & Analytics</b></summary>
+<summary><b>💼 Soft Skills</b></summary>
 <br>
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+`Leadership` • `Team Collaboration` • `Problem Solving` • `Communication` • `Time Management` • `Adaptability` • `Event Management`
 
 </details>
 
@@ -165,38 +196,168 @@ const aditya = {
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Featured Projects
 
-```mermaid
-mindmap
-  root((Aditya's Journey))
-    Web Development
-      Next.js Apps
-      API Design
-      Performance Optimization
-    Cybersecurity
-      CTF Challenges
-      Penetration Testing
-      Security Audits
-    Linux Ricing
-      Dotfiles Management
-      Custom Scripts
-      WM Configs
-    DevOps
-      Docker
-      CI/CD Pipelines
-      Cloud Architecture
+<div align="center">
+
+### 🏙️ Sewa Mitr - Civic Issue Resolution Platform
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Im-diablo)
+
+**Tech Stack:** React.js • React Native • Firebase • TypeScript • Node.js • Cloudinary • Google Maps API
+
+```
+✅ Full-stack crowdsourced civic reporting system (Web + Mobile)
+✅ Intelligent GPS-based issue routing to relevant departments
+✅ Real-time tracking and resolution management
+✅ Deployed on Vercel with Firebase backend
 ```
 
 ---
 
-## 🎮 When I'm Not Coding
+### 🗳️ D-Vote - Decentralized Voting System
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Im-diablo)
+
+**Tech Stack:** Next.js 13 • TypeScript • Solidity • Hardhat • Ethers.js • Supabase • MetaMask • CometChat
+
+```
+🔐 Blockchain-based voting with Ethereum smart contracts
+🔐 Aadhaar/Voter ID verification & wallet locking
+🔐 One-person-one-vote enforcement & anti-fraud measures
+🔐 Real-time chat and responsive UI
+```
+
+---
+
+### 👁️ Women Safety Analysis System
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Im-diablo)
+
+**Tech Stack:** Python • OpenCV • Keras • Flask • NumPy • Pandas • Docker
+
+```
+🚨 Real-time action recognition using CNN models
+🚨 IP camera integration for surveillance
+🚨 Automated alert system for critical situations
+🚨 SIH 2024 project with successful deployment
+```
+
+---
+
+### 🏫 Go School - ERP Management System
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Im-diablo)
+
+**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL • Nodemailer
+
+```
+📚 Comprehensive school/college management platform
+📚 Student, teacher, and admin portal integration
+📚 Automated email notifications and reporting
+📚 Efficient DBMS implementation
+```
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+```mermaid
+timeline
+    title Career Journey
+    2024 : Frontend Developer - Smart India Hackathon 2024
+         : Women Safety Analysis System
+         : OpenCV & Keras Implementation
+    2025 : Backend Developer - Smart India Hackathon 2025
+         : Sewa Mitr Development
+         : React Native & ML Integration
+    2025 : Event Manager - ABES Institute of Technology
+         : Organized Festin-O-Beats Technical Events
+    2025 : Cyber Analyst - Deloitte Virtual Simulation
+         : OSINT & Cybersecurity Training
+    2025 : Solutions Architect - AWS Forage Simulation
+         : Cloud Architecture & AWS Services
+```
+
+---
+
+## 🎓 Education & Certifications
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="60"/>
+<br><br>
+<strong>B.Tech in CSE</strong>
+<br>
+<sub>ABES Institute of Technology</sub>
+<br>
+<sub>2023 - 2027</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60"/>
+<br><br>
+<strong>AWS Solutions Architect</strong>
+<br>
+<sub>Forage Virtual Simulation</sub>
+<br>
+<sub>2025</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="60"/>
+<br><br>
+<strong>Cyber Analyst</strong>
+<br>
+<sub>Deloitte Virtual Job Simulation</sub>
+<br>
+<sub>2025</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
-| 🎵 Music | 🎮 Gaming | 🖥️ Ricing | 📚 Learning |
-|:---:|:---:|:---:|:---:|
-| ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) | ![XFCE](https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| 🥇 Achievement | 📅 Year | 📝 Description |
+|:--------------|:-------:|:--------------|
+| **Smart India Hackathon Finalist** | 2024 | Women Safety Analysis System - Frontend Development |
+| **Smart India Hackathon Finalist** | 2025 | Sewa Mitr Civic Reporting - Backend Development |
+| **Event Manager** | 2025 | Organized technical events in Festin-O-Beats annual fest |
+| **AWS Solutions Architect** | 2025 | Completed Forage virtual job simulation |
+| **Cyber Analyst Certification** | 2025 | Completed Deloitte cybersecurity simulation |
+
+</div>
+
+---
+
+## 📈 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yourprofile)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourprofile)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/yourprofile)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Im-diablo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adit200515@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
+📍 **Location:** Ghaziabad, India  
+📧 **Email:** adit200515@gmail.com  
+📱 **Phone:** +91 9717950423
 
 </div>
 
@@ -218,38 +379,11 @@ mindmap
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 💭 Philosophy
 
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-If you like what I do, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourprofile)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Thought of the Day
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> *"First, solve the problem. Then, write the code."* – John Johnson
 
 ### 🐍 Contribution Snake
 
@@ -261,8 +395,19 @@ If you like what I do, consider buying me a coffee! ☕
 
 ---
 
+### ☕ Support My Work
+
+If you find my projects helpful or interesting, consider supporting me!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourprofile)
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-**Made with ❤️ and lots of ☕**
+**Made with ❤️ by Aditya Yadav | Building the future, one commit at a time 🚀**
+
+![](https://hit.yhype.me/github/profile?user_id=Im-diablo)
 
 </div>
