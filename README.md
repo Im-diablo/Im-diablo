@@ -29,7 +29,7 @@
 
 ```console
 ╔════════════════════════════════════╗
-║  SYSTEM TERMINAL v2.0 - ONLINE    ║
+║  SYSTEM TERMINAL v2.0 - ONLINE     ║
 ╚════════════════════════════════════╝
 
 $ whoami
