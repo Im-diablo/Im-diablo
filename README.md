@@ -156,7 +156,7 @@ $ █
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Im-diablo&show_icons=true&theme=chartreuse-dark&hide_border=false" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=chartreuse-dark&hide_border=false" width="48%" />
+ <!-- <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=chartreuse-dark&hide_border=false" width="48%" /> -->
 </p>
 
 <p align="center">
