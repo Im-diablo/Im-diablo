@@ -156,7 +156,7 @@ $ █
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Im-diablo&show_icons=true&theme=chartreuse-dark&hide_border=false" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=chartreuse-dark&hide_border=false" width="48%" /> 
+  <!-- <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=chartreuse-dark&hide_border=false" width="48%" /> -->
 </p>
 
 <p align="center">
@@ -166,13 +166,13 @@ $ █
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjltcjN2cWVuemRsMHNxM3NmdzhyZTZhNzdicTBiamZnNDAycTZhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5jYn6OIfzxI5xx9yHo/giphy.gif" width="32"> GitHub Trophies
+<!-- ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjltcjN2cWVuemRsMHNxM3NmdzhyZTZhNzdicTBiamZnNDAycTZhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5jYn6OIfzxI5xx9yHo/giphy.gif" width="32"> GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Im-diablo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFoMmVqYXF2anVmdXNydjA5MWlsM2Z2ZmVrM3Nubm8yZDNlanFmayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YT9mi86vDPbOudYDvo/giphy.gif" width="32"> Listening To
 
