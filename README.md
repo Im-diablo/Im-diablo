@@ -154,10 +154,10 @@ $ █
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Im-diablo&show_icons=true&theme=chartreuse-dark&hide_border=false" width="48%" />
-  <!-- <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=chartreuse-dark&hide_border=false" width="48%" /> -->
-</p>
+  <!-- <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=chartreuse-dark&hide_border=false" width="48%" /> 
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-diablo&layout=compact&theme=chartreuse-dark&hide_border=false" width="48%" />
@@ -207,7 +207,7 @@ $ █
   <a href="https://twitter.com/i_mdiablo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <!--  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
   <a href="mailto:adit200515@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://blazedev.click"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
