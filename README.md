@@ -152,19 +152,19 @@ $ █
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> GitHub Stats
+<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> GitHub Stats -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Im-diablo&show_icons=true&theme=chartreuse-dark&hide_border=false" width="48%" />
   <!-- <img src="https://streak-stats.demolab.com?user=Im-diablo&theme=chartreuse-dark&hide_border=false" width="48%" /> 
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-diablo&layout=compact&theme=chartreuse-dark&hide_border=false" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-diablo&theme=github-compact&hide_border=false&color=00ff00&line=00ff00&point=00ff00" width="48%" />
-</p>
+</p> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
 <!-- ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjltcjN2cWVuemRsMHNxM3NmdzhyZTZhNzdicTBiamZnNDAycTZhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5jYn6OIfzxI5xx9yHo/giphy.gif" width="32"> GitHub Trophies
 
@@ -174,7 +174,7 @@ $ █
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFoMmVqYXF2anVmdXNydjA5MWlsM2Z2ZmVrM3Nubm8yZDNlanFmayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YT9mi86vDPbOudYDvo/giphy.gif" width="32"> Listening To
+<!-- ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFoMmVqYXF2anVmdXNydjA5MWlsM2Z2ZmVrM3Nubm8yZDNlanFmayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YT9mi86vDPbOudYDvo/giphy.gif" width="32"> Listening To
 
 <p align="center">
   <a href="https://open.spotify.com/user/31l26cwhbydwzzfeafnrgnv2x2fy">
@@ -182,7 +182,7 @@ $ █
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
 ## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="32"> Quote of the Day
 
